@@ -1,0 +1,6 @@
+/Users/mbrave/platformer/.mono/temp/bin/Tools/platformer.dll
+/Users/mbrave/platformer/.mono/temp/bin/Tools/platformer.pdb
+/Users/mbrave/platformer/.mono/temp/obj/Tools/platformer.csprojResolveAssemblyReference.cache
+/Users/mbrave/platformer/.mono/temp/obj/Tools/platformer.csproj.CoreCompileInputs.cache
+/Users/mbrave/platformer/.mono/temp/obj/Tools/platformer.dll
+/Users/mbrave/platformer/.mono/temp/obj/Tools/platformer.pdb
